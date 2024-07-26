@@ -6,7 +6,7 @@ Welcome to the University Website! This is a multipage website showcasing the co
 - About
 - Blog
 - Contact
-![Demo GIF](https://github.com/harshasenchati/University-Website/blob/main/demo.gif)
+![Demo GIF](https://github.com/harshasenchati/University-Website/blob/main/university-website-record-ezgif.com-video-to-gif-converter.gif)
 
 ## Table of Contents
 

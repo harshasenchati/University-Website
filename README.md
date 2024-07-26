@@ -1,23 +1,26 @@
-# University Website
+<div align="center">
+  <h1>🎓 University Website 🎓</h1>
+  <p>Welcome to the University Website! This is a multipage website showcasing the courses offered and the facilities available at the university.</p>
+</div>
 
-Welcome to the University Website! This is a multipage website showcasing the courses offered and the facilities available at the university. Below are the pages included in this website:
+---
 
-- Home
-- About
-- Blog
-- Contact
-![Demo GIF](https://github.com/harshasenchati/University-Website/blob/main/university-website-record-ezgif.com-video-to-gif-converter.gif)
+<div align="center">
+  <img src="https://github.com/harshasenchati/University-Website/blob/main/university-website-record.gif" alt="Demo GIF">
+</div>
+
+---
 
 ## Table of Contents
 
-- [Home](#home)
-- [About](#about)
-- [Blog](#blog)
-- [Contact](#contact)
-- [Technologies Used](#technologies-used)
-- [Setup](#setup)
-- [Usage](#usage)
-- [License](#license)
+- [🏠 Home](#home)
+- [📚 About](#about)
+- [📰 Blog](#blog)
+- [📞 Contact](#contact)
+- [💻 Technologies Used](#technologies-used)
+- [⚙️ Setup](#setup)
+- [🚀 Usage](#usage)
+- [📜 License](#license)
 
 ## Home
 
@@ -37,13 +40,9 @@ The Contact page provides a form for visitors to reach out to the university, al
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
-
-## Demo GIF
-
-
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png)  HTML5
+- ![CSS](https://img.icons8.com/color/48/000000/css3.png)     CSS3
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  JavaScript
 
 ## Setup
 
@@ -53,3 +52,4 @@ To run this project locally, clone the repository and open `index.html` in your 
 git clone https://github.com/harshasenchati/University-Website.git
 cd University-Website
 open index.html
+

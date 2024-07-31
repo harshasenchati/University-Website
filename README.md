@@ -50,6 +50,20 @@ To run this project locally, clone the repository and open `index.html` in your 
 
 ```bash
 git clone https://github.com/harshasenchati/University-Website.git
+```
+open Terminal in VScode and execute  this
+```
 cd University-Website
+```
+to launch this website in your browser execute this code in terminal
+```
 open index.html
+
+```
+## Usage
+After following the setup steps, you can open your browser and navigate to http://localhost:3000 to view and interact with the  application.
+
+## License
+This project is licensed under the MIT License.
+
 

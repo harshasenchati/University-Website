@@ -46,22 +46,23 @@ The Contact page provides a form for visitors to reach out to the university, al
 
 ## Setup
 
-To run this project locally, clone the repository and open `index.html` in your browser.
-
+To run this project locally, follow these steps:
+1.Clone the repository:
 ```bash
 git clone https://github.com/harshasenchati/University-Website.git
 ```
-open Terminal in VScode and execute  this
+2.Navigate to the project directory:
 ```
 cd University-Website
 ```
-to launch this website in your browser execute this code in terminal
+3.Open index.html
+You can open index.html using your file explorer or a command suitable for your operating system. For Windows, use:
 ```
-open index.html
+start  index.html
 
 ```
 ## Usage
-After following the setup steps, you can open your browser and navigate to http://localhost:3000 to view and interact with the  application.
+After following the setup steps, your browser should automatically open and display the index.html file. If not, you can manually navigate to the file using your browser.
 
 ## License
 This project is licensed under the MIT License.
